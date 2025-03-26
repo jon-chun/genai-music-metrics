@@ -21,24 +21,24 @@ Brainstorm on what unique insights, expertise, and advantages you can bring to t
 1. Peruse <a href="./docs/paper_frontiersinai_computational_creativity_and_music_gen_fcarnovalini.pdf">this paper on music creativity and aesthetics up to and including Section 2</a> to educate yourself on Generative AI music and related benchmarks (Computational Creativity and Music Generation Systems: An Introduction to State of the Art, Carnovalini et al, Frontiers in Artificial Intelligence, Apr 2020)
 
 2. Read the following instructions in this order:
-a. <a href="./docs/instructions_research_study.md">Instructions Research Study</a>
-b. <a href="./docs/instructions_prompt_engineering_text-to-music-LLMs.md">Instructions Prompt Engineering for GenAI Music</a>
-c. <a href="./docs/rubric_harmonic.md">Scoring Rubric</a>
+- a. <a href="./docs/instructions_research_study.md">Instructions Research Study</a>
+- b. <a href="./docs/instructions_prompt_engineering_text-to-music-LLMs.md">Instructions Prompt Engineering for GenAI Music</a>
+- c. <a href="./docs/rubric_harmonic.md">Scoring Rubric</a>
 
 3.  Use information, guidelines and constraints from the previous steps and paper to brainstorm a specific, narrow type of music you:
 are familiar with can concisely and relatively completely capture in a 200char prompt can effectively evaluate using the scoring rubric.
 
 4. Goto suno.com and create a free account and use 2.b. to create/refine your prompts and the scoring rubric in 2.c. to evaluate/quantify the quality of your resultant AI generated songs
 
-a. Choose “Classical lyrics model” (Not the “ReMi” model) and click the big blue “Create” pill button
-b. Pick the best generated version and score it using the Rubric Spreadsheet
-c. Use your evaluations to refine/improve your prompt
+- a. Choose “Classical lyrics model” (Not the “ReMi” model) and click the big blue “Create” pill button
+- b. Pick the best generated version and score it using the Rubric Spreadsheet
+- c. Use your evaluations to refine/improve your prompt
 
 5. Repeat step #4 for at least three iterations and save prompts, songs, notes/completed scoring rubric sheets for each iteration/song.
 
 6. Write a one page summary of your GenAI process, findings at each step and with a summary of your overall conclusion:
 
-a. Overall impressions of final song
-b. Strategies and lessons learned in Prompt Engineering refinements/limitations
-c. Trajectory of song quality over the iterative process
-d. Personal observations, objections, concerns, future predictions, etc. regarding the ‘big questions’ around this type of generative AI art
+- a. Overall impressions of final song
+- b. Strategies and lessons learned in Prompt Engineering refinements/limitations
+- c. Trajectory of song quality over the iterative process
+- d. Personal observations, objections, concerns, future predictions, etc. regarding the ‘big questions’ around this type of generative AI art
