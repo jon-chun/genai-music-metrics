@@ -23,7 +23,7 @@ Brainstorm on what unique insights, expertise, and advantages you can bring to t
 2. Read the following instructions in this order:
 - a. <a href="./docs/instructions_research_study.md">Instructions Research Study</a>
 - b. <a href="./docs/instructions_prompt_engineering_text-to-music-LLMs.md">Instructions Prompt Engineering for GenAI Music</a>
-- c. <a href="./docs/rubric_harmonic.md">Scoring Rubric</a>
+- c. <a href="./docs/scoring_rubric_harmonic-songs.md)">Scoring Rubric</a>
 
 3.  Use information, guidelines and constraints from the previous steps and paper to brainstorm a specific, narrow type of music you:
 are familiar with can concisely and relatively completely capture in a 200char prompt can effectively evaluate using the scoring rubric.
