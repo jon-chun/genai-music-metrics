@@ -4,6 +4,11 @@
 ### Kenyon College 
 ### 22 Mar 2025
 
+---
+
+![GenAI The Orchestra of Algorithms by AI Caravaggio](./docs/orchestra-of-algorithms_caravaggio.png?raw=true)
+*The Orchestra of Algorithms: A futuristic amphitheater in the style of ancient Greece where robotic musicians with classical instruments emit streams of light representing sound waves, while quantum judges with multiple faces (inspired by Janus) analyze the performance using crystalline measuring devices, all rendered in the dramatic chiaroscuro style of Caravaggio.*
+
 # OVERVIEW:
 
 Since we began creating our human-centered AI curriculum in 2016, the progress in AI has been astounding. One of the most intuitively obvious benchmarks of this rapid (some say accelerating) progress can been seen in the subfield of generative AI art that could include images, video and music. Measuring advancements in GenAI Art presents a multi-dimensional challenge compared to our earlier GOFAI benchmarks since there is no single universal ground truth to measure ‘performance’ or ‘goodness’. Most interesting and impactful real-world AI challenges involve a combination of human expertise, judgement and common sense contextualization.
