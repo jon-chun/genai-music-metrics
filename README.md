@@ -1,4 +1,4 @@
-# Mini-Project #2: 
+# Mini-Project #3: 
 ## AI Music Generation and Benchmarking Creativity
 ### IPHS300 AI for Humanity (Spring 2025)
 ### Kenyon College 
