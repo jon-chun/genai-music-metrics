@@ -93,6 +93,8 @@ ____________________
 
 ## 2. Song A: Rounds 1-3
 
+> **Scoring note:** Each round's rubric has two parts. **Part A: Music Evaluation (80 points)** covers composition, production, genre, and AI quality. **Part B: Lyric Evaluation (20 points)** covers the AI-generated lyrics. Combined total: **100 points**.
+
 ### Song A — Round 1 (Baseline)
 
 **Prompt Used** *(verbatim, exactly as entered into Suno):*
@@ -105,73 +107,104 @@ ____________________
 
 #### HARMONIC Rubric — Song A, Round 1
 
-**1. Novelty & Originality (25 points)**
+**Part A: Music Evaluation (80 points)**
+
+**1. Novelty & Originality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Unexpectedness | Surprising elements within genre expectations | | 1.6 | |
-| Transformative elements | Creative approaches to genre conventions | | 1.4 | |
-| Conceptual distance | Unique position within the genre landscape | | 1.0 | |
-| Structural innovation | Novel approaches to form within genre context | | 1.0 | |
-| **SECTION TOTAL** | | | | **/25** |
+| Unexpectedness | Surprising elements within genre expectations | | 1.3 | |
+| Transformative elements | Creative approaches to genre conventions | | 1.1 | |
+| Conceptual distance | Unique position within the genre landscape | | 0.8 | |
+| Structural innovation | Novel approaches to form within genre context | | 0.8 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**2. Musical Value & Quality (25 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Coherence & structure | Logical musical flow and development | | 1.4 | |
-| Technical execution | Proper handling of genre-specific techniques | | 1.2 | |
-| Emotional resonance | Evokes appropriate emotional responses | | 1.2 | |
-| Memorability | Contains distinctive, memorable elements | | 0.6 | |
-| Production quality | Technical aspects of sound production | | 0.6 | |
-| **SECTION TOTAL** | | | | **/25** |
-
-**3. Genre-Specific Achievement (15 points)**
+**2. Musical Value & Quality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Genre authenticity | Captures essential genre characteristics | | 1.0 | |
-| Stylistic consistency | Maintains coherent style throughout | | 1.0 | |
-| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 1.0 | |
-| **SECTION TOTAL** | | | | **/15** |
+| Coherence & structure | Logical musical flow and development | | 1.1 | |
+| Technical execution | Proper handling of genre-specific techniques | | 1.0 | |
+| Emotional resonance | Evokes appropriate emotional responses | | 1.0 | |
+| Memorability | Contains distinctive, memorable elements | | 0.5 | |
+| Production quality | Technical aspects of sound production | | 0.4 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**4. AI Generation Quality (15 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt adherence | How well output matches prompt intent | | 1.0 | |
-| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 1.0 | |
-| Musical logic | Follows sensible musical structure and rules | | 0.6 | |
-| Intentionality | Evidence of purposeful musical choices | | 0.4 | |
-| **SECTION TOTAL** | | | | **/15** |
-
-**5. Human-AI Interaction (10 points)**
+**3. Genre-Specific Achievement (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt responsiveness | How well AI responded to specific requests | | 0.8 | |
-| Controllability | Success in steering output through prompting | | 0.6 | |
-| Iteration improvement | Measurable improvement from refinements | | 0.6 | |
-| **SECTION TOTAL** | | | | **/10** |
+| Genre authenticity | Captures essential genre characteristics | | 0.8 | |
+| Stylistic consistency | Maintains coherent style throughout | | 0.8 | |
+| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 0.8 | |
+| **SECTION TOTAL** | | | | **/12** |
 
-**6. Audience & Cultural Relevance (10 points)**
+**4. AI Generation Quality (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Target audience appeal | Likely reception by intended listeners | | 0.8 | |
-| Commercial viability | Potential for real-world application | | 0.8 | |
+| Prompt adherence | How well output matches prompt intent | | 0.8 | |
+| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 0.8 | |
+| Musical logic | Follows sensible musical structure and rules | | 0.5 | |
+| Intentionality | Evidence of purposeful musical choices | | 0.3 | |
+| **SECTION TOTAL** | | | | **/12** |
+
+**5. Human-AI Interaction (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Prompt responsiveness | How well AI responded to specific requests | | 0.6 | |
+| Controllability | Success in steering output through prompting | | 0.5 | |
+| Iteration improvement | Measurable improvement from refinements | | 0.5 | |
+| **SECTION TOTAL** | | | | **/8** |
+
+**6. Audience & Cultural Relevance (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Target audience appeal | Likely reception by intended listeners | | 0.6 | |
+| Commercial viability | Potential for real-world application | | 0.6 | |
 | Cultural authenticity | Respects cultural origins of the genre | | 0.4 | |
-| **SECTION TOTAL** | | | | **/10** |
+| **SECTION TOTAL** | | | | **/8** |
 
-**Composite Score: _____ / 100**
+**Music Score: _____ / 80**
 
-#### Song Evaluation
+---
 
-**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
+**Part B: Lyric Evaluation (20 points)**
+
+**7. Lyric Quality (20 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Thematic coherence | Lyrics tell a clear story or convey a unified theme | | 1.0 | |
+| Wordcraft & rhyme | Quality of word choice, rhyme scheme, and lyrical rhythm | | 1.0 | |
+| Emotional alignment | Lyrics match and reinforce the musical mood | | 0.8 | |
+| Originality of expression | Creative phrasing vs. cliche or generic language | | 0.6 | |
+| Genre-appropriate language | Vocabulary and style fit the genre conventions | | 0.6 | |
+| **SECTION TOTAL** | | | | **/20** |
+
+**Lyric Score: _____ / 20**
+
+**Composite Score (Music + Lyrics): _____ / 100**
+
+#### Music Evaluation
+
+**Music Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+**Music Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+
+____________________
+
+#### Lyric Evaluation
+
+**Lyric Strengths** *(What works well? Cite specific lines or passages — e.g., clever wordplay, emotional resonance, thematic clarity, genre-appropriate vocabulary):*
+
+____________________
+
+**Lyric Weaknesses** *(What falls short? Cite specific problems — e.g., cliches, nonsensical lines, mismatch with music mood, awkward rhymes):*
 
 ____________________
 
@@ -191,7 +224,11 @@ ____________________
 
 #### Reflection on Round 1
 
-**Song issues to fix** *(Based on your Round 1 rubric scores, which 2-3 musical weaknesses are you targeting?):*
+**Music issues to fix** *(Based on your Round 1 music rubric scores, which 2-3 musical weaknesses are you targeting?):*
+
+____________________
+
+**Lyric issues to fix** *(Based on your Round 1 lyric rubric scores, which lyric weaknesses are you targeting?):*
 
 ____________________
 
@@ -203,7 +240,7 @@ ____________________
 
 **Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+| Change Type | Exact Words/Phrases Changed in Prompt | Music, Lyric, or Prompt Issue This Addresses | Reasoning |
 |:-----------:|--------------------------------------|-------------------------------------|-----------|
 | Changed | | | |
 | Added | | | |
@@ -229,77 +266,112 @@ ____________________
 
 #### HARMONIC Rubric — Song A, Round 2
 
-**1. Novelty & Originality (25 points)**
+**Part A: Music Evaluation (80 points)**
+
+**1. Novelty & Originality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Unexpectedness | Surprising elements within genre expectations | | 1.6 | |
-| Transformative elements | Creative approaches to genre conventions | | 1.4 | |
-| Conceptual distance | Unique position within the genre landscape | | 1.0 | |
-| Structural innovation | Novel approaches to form within genre context | | 1.0 | |
-| **SECTION TOTAL** | | | | **/25** |
+| Unexpectedness | Surprising elements within genre expectations | | 1.3 | |
+| Transformative elements | Creative approaches to genre conventions | | 1.1 | |
+| Conceptual distance | Unique position within the genre landscape | | 0.8 | |
+| Structural innovation | Novel approaches to form within genre context | | 0.8 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**2. Musical Value & Quality (25 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Coherence & structure | Logical musical flow and development | | 1.4 | |
-| Technical execution | Proper handling of genre-specific techniques | | 1.2 | |
-| Emotional resonance | Evokes appropriate emotional responses | | 1.2 | |
-| Memorability | Contains distinctive, memorable elements | | 0.6 | |
-| Production quality | Technical aspects of sound production | | 0.6 | |
-| **SECTION TOTAL** | | | | **/25** |
-
-**3. Genre-Specific Achievement (15 points)**
+**2. Musical Value & Quality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Genre authenticity | Captures essential genre characteristics | | 1.0 | |
-| Stylistic consistency | Maintains coherent style throughout | | 1.0 | |
-| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 1.0 | |
-| **SECTION TOTAL** | | | | **/15** |
+| Coherence & structure | Logical musical flow and development | | 1.1 | |
+| Technical execution | Proper handling of genre-specific techniques | | 1.0 | |
+| Emotional resonance | Evokes appropriate emotional responses | | 1.0 | |
+| Memorability | Contains distinctive, memorable elements | | 0.5 | |
+| Production quality | Technical aspects of sound production | | 0.4 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**4. AI Generation Quality (15 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt adherence | How well output matches prompt intent | | 1.0 | |
-| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 1.0 | |
-| Musical logic | Follows sensible musical structure and rules | | 0.6 | |
-| Intentionality | Evidence of purposeful musical choices | | 0.4 | |
-| **SECTION TOTAL** | | | | **/15** |
-
-**5. Human-AI Interaction (10 points)**
+**3. Genre-Specific Achievement (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt responsiveness | How well AI responded to specific requests | | 0.8 | |
-| Controllability | Success in steering output through prompting | | 0.6 | |
-| Iteration improvement | Measurable improvement from refinements | | 0.6 | |
-| **SECTION TOTAL** | | | | **/10** |
+| Genre authenticity | Captures essential genre characteristics | | 0.8 | |
+| Stylistic consistency | Maintains coherent style throughout | | 0.8 | |
+| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 0.8 | |
+| **SECTION TOTAL** | | | | **/12** |
 
-**6. Audience & Cultural Relevance (10 points)**
+**4. AI Generation Quality (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Target audience appeal | Likely reception by intended listeners | | 0.8 | |
-| Commercial viability | Potential for real-world application | | 0.8 | |
+| Prompt adherence | How well output matches prompt intent | | 0.8 | |
+| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 0.8 | |
+| Musical logic | Follows sensible musical structure and rules | | 0.5 | |
+| Intentionality | Evidence of purposeful musical choices | | 0.3 | |
+| **SECTION TOTAL** | | | | **/12** |
+
+**5. Human-AI Interaction (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Prompt responsiveness | How well AI responded to specific requests | | 0.6 | |
+| Controllability | Success in steering output through prompting | | 0.5 | |
+| Iteration improvement | Measurable improvement from refinements | | 0.5 | |
+| **SECTION TOTAL** | | | | **/8** |
+
+**6. Audience & Cultural Relevance (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Target audience appeal | Likely reception by intended listeners | | 0.6 | |
+| Commercial viability | Potential for real-world application | | 0.6 | |
 | Cultural authenticity | Respects cultural origins of the genre | | 0.4 | |
-| **SECTION TOTAL** | | | | **/10** |
+| **SECTION TOTAL** | | | | **/8** |
 
-**Composite Score: _____ / 100**
+**Music Score: _____ / 80**
 
-#### Song Evaluation
+---
 
-**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
+**Part B: Lyric Evaluation (20 points)**
+
+**7. Lyric Quality (20 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Thematic coherence | Lyrics tell a clear story or convey a unified theme | | 1.0 | |
+| Wordcraft & rhyme | Quality of word choice, rhyme scheme, and lyrical rhythm | | 1.0 | |
+| Emotional alignment | Lyrics match and reinforce the musical mood | | 0.8 | |
+| Originality of expression | Creative phrasing vs. cliche or generic language | | 0.6 | |
+| Genre-appropriate language | Vocabulary and style fit the genre conventions | | 0.6 | |
+| **SECTION TOTAL** | | | | **/20** |
+
+**Lyric Score: _____ / 20**
+
+**Composite Score (Music + Lyrics): _____ / 100**
+
+#### Music Evaluation
+
+**Music Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+**Music Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
 
 ____________________
 
-**What improved in the song from Round 1:**
+**What improved in the music from Round 1:**
+
+____________________
+
+#### Lyric Evaluation
+
+**Lyric Strengths** *(What works well? Cite specific lines or passages):*
+
+____________________
+
+**Lyric Weaknesses** *(What falls short? Cite specific problems):*
+
+____________________
+
+**What improved in the lyrics from Round 1:**
 
 ____________________
 
@@ -319,7 +391,11 @@ ____________________
 
 #### Reflection on Rounds 1 and 2
 
-**Song issues to fix** *(Based on your Round 2 rubric scores, which musical weaknesses remain or emerged? Did Round 2 fixes actually improve those scores?):*
+**Music issues to fix** *(Based on your Round 2 music rubric scores, which musical weaknesses remain or emerged? Did Round 2 fixes actually improve those scores?):*
+
+____________________
+
+**Lyric issues to fix** *(Based on your Round 2 lyric rubric scores, which lyric weaknesses remain or emerged?):*
 
 ____________________
 
@@ -335,7 +411,7 @@ ____________________
 
 **Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+| Change Type | Exact Words/Phrases Changed in Prompt | Music, Lyric, or Prompt Issue This Addresses | Reasoning |
 |:-----------:|--------------------------------------|-------------------------------------|-----------|
 | Changed | | | |
 | Added | | | |
@@ -361,77 +437,112 @@ ____________________
 
 #### HARMONIC Rubric — Song A, Round 3
 
-**1. Novelty & Originality (25 points)**
+**Part A: Music Evaluation (80 points)**
+
+**1. Novelty & Originality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Unexpectedness | Surprising elements within genre expectations | | 1.6 | |
-| Transformative elements | Creative approaches to genre conventions | | 1.4 | |
-| Conceptual distance | Unique position within the genre landscape | | 1.0 | |
-| Structural innovation | Novel approaches to form within genre context | | 1.0 | |
-| **SECTION TOTAL** | | | | **/25** |
+| Unexpectedness | Surprising elements within genre expectations | | 1.3 | |
+| Transformative elements | Creative approaches to genre conventions | | 1.1 | |
+| Conceptual distance | Unique position within the genre landscape | | 0.8 | |
+| Structural innovation | Novel approaches to form within genre context | | 0.8 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**2. Musical Value & Quality (25 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Coherence & structure | Logical musical flow and development | | 1.4 | |
-| Technical execution | Proper handling of genre-specific techniques | | 1.2 | |
-| Emotional resonance | Evokes appropriate emotional responses | | 1.2 | |
-| Memorability | Contains distinctive, memorable elements | | 0.6 | |
-| Production quality | Technical aspects of sound production | | 0.6 | |
-| **SECTION TOTAL** | | | | **/25** |
-
-**3. Genre-Specific Achievement (15 points)**
+**2. Musical Value & Quality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Genre authenticity | Captures essential genre characteristics | | 1.0 | |
-| Stylistic consistency | Maintains coherent style throughout | | 1.0 | |
-| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 1.0 | |
-| **SECTION TOTAL** | | | | **/15** |
+| Coherence & structure | Logical musical flow and development | | 1.1 | |
+| Technical execution | Proper handling of genre-specific techniques | | 1.0 | |
+| Emotional resonance | Evokes appropriate emotional responses | | 1.0 | |
+| Memorability | Contains distinctive, memorable elements | | 0.5 | |
+| Production quality | Technical aspects of sound production | | 0.4 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**4. AI Generation Quality (15 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt adherence | How well output matches prompt intent | | 1.0 | |
-| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 1.0 | |
-| Musical logic | Follows sensible musical structure and rules | | 0.6 | |
-| Intentionality | Evidence of purposeful musical choices | | 0.4 | |
-| **SECTION TOTAL** | | | | **/15** |
-
-**5. Human-AI Interaction (10 points)**
+**3. Genre-Specific Achievement (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt responsiveness | How well AI responded to specific requests | | 0.8 | |
-| Controllability | Success in steering output through prompting | | 0.6 | |
-| Iteration improvement | Measurable improvement from refinements | | 0.6 | |
-| **SECTION TOTAL** | | | | **/10** |
+| Genre authenticity | Captures essential genre characteristics | | 0.8 | |
+| Stylistic consistency | Maintains coherent style throughout | | 0.8 | |
+| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 0.8 | |
+| **SECTION TOTAL** | | | | **/12** |
 
-**6. Audience & Cultural Relevance (10 points)**
+**4. AI Generation Quality (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Target audience appeal | Likely reception by intended listeners | | 0.8 | |
-| Commercial viability | Potential for real-world application | | 0.8 | |
+| Prompt adherence | How well output matches prompt intent | | 0.8 | |
+| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 0.8 | |
+| Musical logic | Follows sensible musical structure and rules | | 0.5 | |
+| Intentionality | Evidence of purposeful musical choices | | 0.3 | |
+| **SECTION TOTAL** | | | | **/12** |
+
+**5. Human-AI Interaction (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Prompt responsiveness | How well AI responded to specific requests | | 0.6 | |
+| Controllability | Success in steering output through prompting | | 0.5 | |
+| Iteration improvement | Measurable improvement from refinements | | 0.5 | |
+| **SECTION TOTAL** | | | | **/8** |
+
+**6. Audience & Cultural Relevance (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Target audience appeal | Likely reception by intended listeners | | 0.6 | |
+| Commercial viability | Potential for real-world application | | 0.6 | |
 | Cultural authenticity | Respects cultural origins of the genre | | 0.4 | |
-| **SECTION TOTAL** | | | | **/10** |
+| **SECTION TOTAL** | | | | **/8** |
 
-**Composite Score: _____ / 100**
+**Music Score: _____ / 80**
 
-#### Song Evaluation
+---
 
-**Song Strengths** *(What sounds good? Cite specific musical moments):*
+**Part B: Lyric Evaluation (20 points)**
+
+**7. Lyric Quality (20 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Thematic coherence | Lyrics tell a clear story or convey a unified theme | | 1.0 | |
+| Wordcraft & rhyme | Quality of word choice, rhyme scheme, and lyrical rhythm | | 1.0 | |
+| Emotional alignment | Lyrics match and reinforce the musical mood | | 0.8 | |
+| Originality of expression | Creative phrasing vs. cliche or generic language | | 0.6 | |
+| Genre-appropriate language | Vocabulary and style fit the genre conventions | | 0.6 | |
+| **SECTION TOTAL** | | | | **/20** |
+
+**Lyric Score: _____ / 20**
+
+**Composite Score (Music + Lyrics): _____ / 100**
+
+#### Music Evaluation
+
+**Music Strengths** *(What sounds good? Cite specific musical moments):*
 
 ____________________
 
-**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems):*
+**Music Weaknesses** *(What sounds wrong or weak? Cite specific musical problems):*
 
 ____________________
 
-**What improved in the song from Round 2:**
+**What improved in the music from Round 2:**
+
+____________________
+
+#### Lyric Evaluation
+
+**Lyric Strengths** *(What works well? Cite specific lines or passages):*
+
+____________________
+
+**Lyric Weaknesses** *(What falls short? Cite specific problems):*
+
+____________________
+
+**What improved in the lyrics from Round 2:**
 
 ____________________
 
@@ -449,15 +560,17 @@ ____________________
 
 ### Song A — Score Trajectory
 
-| Round | Novelty (25) | Musical Value (25) | Genre (15) | AI Quality (15) | Human-AI (10) | Audience (10) | **Total (100)** |
-|:-----:|:------------:|:------------------:|:----------:|:----------------:|:--------------:|:--------------:|:---------------:|
-| 1 | | | | | | | |
-| 2 | | | | | | | |
-| 3 | | | | | | | |
+| Round | Novelty (20) | Musical Value (20) | Genre (12) | AI Quality (12) | Human-AI (8) | Audience (8) | **Music (80)** | **Lyrics (20)** | **Total (100)** |
+|:-----:|:------------:|:------------------:|:----------:|:----------------:|:-------------:|:------------:|:--------------:|:---------------:|:---------------:|
+| 1 | | | | | | | | | |
+| 2 | | | | | | | | | |
+| 3 | | | | | | | | | |
 
 ---
 
 ## 3. Song B: Rounds 1-3
+
+> **Scoring note:** Same two-part rubric as Song A. **Part A: Music (80 pts)** + **Part B: Lyrics (20 pts)** = **100 pts total**.
 
 ### Song B — Round 1 (Baseline)
 
@@ -471,73 +584,104 @@ ____________________
 
 #### HARMONIC Rubric — Song B, Round 1
 
-**1. Novelty & Originality (25 points)**
+**Part A: Music Evaluation (80 points)**
+
+**1. Novelty & Originality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Unexpectedness | Surprising elements within genre expectations | | 1.6 | |
-| Transformative elements | Creative approaches to genre conventions | | 1.4 | |
-| Conceptual distance | Unique position within the genre landscape | | 1.0 | |
-| Structural innovation | Novel approaches to form within genre context | | 1.0 | |
-| **SECTION TOTAL** | | | | **/25** |
+| Unexpectedness | Surprising elements within genre expectations | | 1.3 | |
+| Transformative elements | Creative approaches to genre conventions | | 1.1 | |
+| Conceptual distance | Unique position within the genre landscape | | 0.8 | |
+| Structural innovation | Novel approaches to form within genre context | | 0.8 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**2. Musical Value & Quality (25 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Coherence & structure | Logical musical flow and development | | 1.4 | |
-| Technical execution | Proper handling of genre-specific techniques | | 1.2 | |
-| Emotional resonance | Evokes appropriate emotional responses | | 1.2 | |
-| Memorability | Contains distinctive, memorable elements | | 0.6 | |
-| Production quality | Technical aspects of sound production | | 0.6 | |
-| **SECTION TOTAL** | | | | **/25** |
-
-**3. Genre-Specific Achievement (15 points)**
+**2. Musical Value & Quality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Genre authenticity | Captures essential genre characteristics | | 1.0 | |
-| Stylistic consistency | Maintains coherent style throughout | | 1.0 | |
-| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 1.0 | |
-| **SECTION TOTAL** | | | | **/15** |
+| Coherence & structure | Logical musical flow and development | | 1.1 | |
+| Technical execution | Proper handling of genre-specific techniques | | 1.0 | |
+| Emotional resonance | Evokes appropriate emotional responses | | 1.0 | |
+| Memorability | Contains distinctive, memorable elements | | 0.5 | |
+| Production quality | Technical aspects of sound production | | 0.4 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**4. AI Generation Quality (15 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt adherence | How well output matches prompt intent | | 1.0 | |
-| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 1.0 | |
-| Musical logic | Follows sensible musical structure and rules | | 0.6 | |
-| Intentionality | Evidence of purposeful musical choices | | 0.4 | |
-| **SECTION TOTAL** | | | | **/15** |
-
-**5. Human-AI Interaction (10 points)**
+**3. Genre-Specific Achievement (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt responsiveness | How well AI responded to specific requests | | 0.8 | |
-| Controllability | Success in steering output through prompting | | 0.6 | |
-| Iteration improvement | Measurable improvement from refinements | | 0.6 | |
-| **SECTION TOTAL** | | | | **/10** |
+| Genre authenticity | Captures essential genre characteristics | | 0.8 | |
+| Stylistic consistency | Maintains coherent style throughout | | 0.8 | |
+| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 0.8 | |
+| **SECTION TOTAL** | | | | **/12** |
 
-**6. Audience & Cultural Relevance (10 points)**
+**4. AI Generation Quality (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Target audience appeal | Likely reception by intended listeners | | 0.8 | |
-| Commercial viability | Potential for real-world application | | 0.8 | |
+| Prompt adherence | How well output matches prompt intent | | 0.8 | |
+| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 0.8 | |
+| Musical logic | Follows sensible musical structure and rules | | 0.5 | |
+| Intentionality | Evidence of purposeful musical choices | | 0.3 | |
+| **SECTION TOTAL** | | | | **/12** |
+
+**5. Human-AI Interaction (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Prompt responsiveness | How well AI responded to specific requests | | 0.6 | |
+| Controllability | Success in steering output through prompting | | 0.5 | |
+| Iteration improvement | Measurable improvement from refinements | | 0.5 | |
+| **SECTION TOTAL** | | | | **/8** |
+
+**6. Audience & Cultural Relevance (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Target audience appeal | Likely reception by intended listeners | | 0.6 | |
+| Commercial viability | Potential for real-world application | | 0.6 | |
 | Cultural authenticity | Respects cultural origins of the genre | | 0.4 | |
-| **SECTION TOTAL** | | | | **/10** |
+| **SECTION TOTAL** | | | | **/8** |
 
-**Composite Score: _____ / 100**
+**Music Score: _____ / 80**
 
-#### Song Evaluation
+---
 
-**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
+**Part B: Lyric Evaluation (20 points)**
+
+**7. Lyric Quality (20 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Thematic coherence | Lyrics tell a clear story or convey a unified theme | | 1.0 | |
+| Wordcraft & rhyme | Quality of word choice, rhyme scheme, and lyrical rhythm | | 1.0 | |
+| Emotional alignment | Lyrics match and reinforce the musical mood | | 0.8 | |
+| Originality of expression | Creative phrasing vs. cliche or generic language | | 0.6 | |
+| Genre-appropriate language | Vocabulary and style fit the genre conventions | | 0.6 | |
+| **SECTION TOTAL** | | | | **/20** |
+
+**Lyric Score: _____ / 20**
+
+**Composite Score (Music + Lyrics): _____ / 100**
+
+#### Music Evaluation
+
+**Music Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+**Music Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+
+____________________
+
+#### Lyric Evaluation
+
+**Lyric Strengths** *(What works well? Cite specific lines or passages — e.g., clever wordplay, emotional resonance, thematic clarity, genre-appropriate vocabulary):*
+
+____________________
+
+**Lyric Weaknesses** *(What falls short? Cite specific problems — e.g., cliches, nonsensical lines, mismatch with music mood, awkward rhymes):*
 
 ____________________
 
@@ -557,7 +701,11 @@ ____________________
 
 #### Reflection on Round 1
 
-**Song issues to fix** *(Based on your Round 1 rubric scores, which 2-3 musical weaknesses are you targeting?):*
+**Music issues to fix** *(Based on your Round 1 music rubric scores, which 2-3 musical weaknesses are you targeting?):*
+
+____________________
+
+**Lyric issues to fix** *(Based on your Round 1 lyric rubric scores, which lyric weaknesses are you targeting?):*
 
 ____________________
 
@@ -569,7 +717,7 @@ ____________________
 
 **Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+| Change Type | Exact Words/Phrases Changed in Prompt | Music, Lyric, or Prompt Issue This Addresses | Reasoning |
 |:-----------:|--------------------------------------|-------------------------------------|-----------|
 | Changed | | | |
 | Added | | | |
@@ -595,77 +743,112 @@ ____________________
 
 #### HARMONIC Rubric — Song B, Round 2
 
-**1. Novelty & Originality (25 points)**
+**Part A: Music Evaluation (80 points)**
+
+**1. Novelty & Originality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Unexpectedness | Surprising elements within genre expectations | | 1.6 | |
-| Transformative elements | Creative approaches to genre conventions | | 1.4 | |
-| Conceptual distance | Unique position within the genre landscape | | 1.0 | |
-| Structural innovation | Novel approaches to form within genre context | | 1.0 | |
-| **SECTION TOTAL** | | | | **/25** |
+| Unexpectedness | Surprising elements within genre expectations | | 1.3 | |
+| Transformative elements | Creative approaches to genre conventions | | 1.1 | |
+| Conceptual distance | Unique position within the genre landscape | | 0.8 | |
+| Structural innovation | Novel approaches to form within genre context | | 0.8 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**2. Musical Value & Quality (25 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Coherence & structure | Logical musical flow and development | | 1.4 | |
-| Technical execution | Proper handling of genre-specific techniques | | 1.2 | |
-| Emotional resonance | Evokes appropriate emotional responses | | 1.2 | |
-| Memorability | Contains distinctive, memorable elements | | 0.6 | |
-| Production quality | Technical aspects of sound production | | 0.6 | |
-| **SECTION TOTAL** | | | | **/25** |
-
-**3. Genre-Specific Achievement (15 points)**
+**2. Musical Value & Quality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Genre authenticity | Captures essential genre characteristics | | 1.0 | |
-| Stylistic consistency | Maintains coherent style throughout | | 1.0 | |
-| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 1.0 | |
-| **SECTION TOTAL** | | | | **/15** |
+| Coherence & structure | Logical musical flow and development | | 1.1 | |
+| Technical execution | Proper handling of genre-specific techniques | | 1.0 | |
+| Emotional resonance | Evokes appropriate emotional responses | | 1.0 | |
+| Memorability | Contains distinctive, memorable elements | | 0.5 | |
+| Production quality | Technical aspects of sound production | | 0.4 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**4. AI Generation Quality (15 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt adherence | How well output matches prompt intent | | 1.0 | |
-| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 1.0 | |
-| Musical logic | Follows sensible musical structure and rules | | 0.6 | |
-| Intentionality | Evidence of purposeful musical choices | | 0.4 | |
-| **SECTION TOTAL** | | | | **/15** |
-
-**5. Human-AI Interaction (10 points)**
+**3. Genre-Specific Achievement (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt responsiveness | How well AI responded to specific requests | | 0.8 | |
-| Controllability | Success in steering output through prompting | | 0.6 | |
-| Iteration improvement | Measurable improvement from refinements | | 0.6 | |
-| **SECTION TOTAL** | | | | **/10** |
+| Genre authenticity | Captures essential genre characteristics | | 0.8 | |
+| Stylistic consistency | Maintains coherent style throughout | | 0.8 | |
+| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 0.8 | |
+| **SECTION TOTAL** | | | | **/12** |
 
-**6. Audience & Cultural Relevance (10 points)**
+**4. AI Generation Quality (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Target audience appeal | Likely reception by intended listeners | | 0.8 | |
-| Commercial viability | Potential for real-world application | | 0.8 | |
+| Prompt adherence | How well output matches prompt intent | | 0.8 | |
+| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 0.8 | |
+| Musical logic | Follows sensible musical structure and rules | | 0.5 | |
+| Intentionality | Evidence of purposeful musical choices | | 0.3 | |
+| **SECTION TOTAL** | | | | **/12** |
+
+**5. Human-AI Interaction (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Prompt responsiveness | How well AI responded to specific requests | | 0.6 | |
+| Controllability | Success in steering output through prompting | | 0.5 | |
+| Iteration improvement | Measurable improvement from refinements | | 0.5 | |
+| **SECTION TOTAL** | | | | **/8** |
+
+**6. Audience & Cultural Relevance (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Target audience appeal | Likely reception by intended listeners | | 0.6 | |
+| Commercial viability | Potential for real-world application | | 0.6 | |
 | Cultural authenticity | Respects cultural origins of the genre | | 0.4 | |
-| **SECTION TOTAL** | | | | **/10** |
+| **SECTION TOTAL** | | | | **/8** |
 
-**Composite Score: _____ / 100**
+**Music Score: _____ / 80**
 
-#### Song Evaluation
+---
 
-**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
+**Part B: Lyric Evaluation (20 points)**
+
+**7. Lyric Quality (20 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Thematic coherence | Lyrics tell a clear story or convey a unified theme | | 1.0 | |
+| Wordcraft & rhyme | Quality of word choice, rhyme scheme, and lyrical rhythm | | 1.0 | |
+| Emotional alignment | Lyrics match and reinforce the musical mood | | 0.8 | |
+| Originality of expression | Creative phrasing vs. cliche or generic language | | 0.6 | |
+| Genre-appropriate language | Vocabulary and style fit the genre conventions | | 0.6 | |
+| **SECTION TOTAL** | | | | **/20** |
+
+**Lyric Score: _____ / 20**
+
+**Composite Score (Music + Lyrics): _____ / 100**
+
+#### Music Evaluation
+
+**Music Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+**Music Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
 
 ____________________
 
-**What improved in the song from Round 1:**
+**What improved in the music from Round 1:**
+
+____________________
+
+#### Lyric Evaluation
+
+**Lyric Strengths** *(What works well? Cite specific lines or passages):*
+
+____________________
+
+**Lyric Weaknesses** *(What falls short? Cite specific problems):*
+
+____________________
+
+**What improved in the lyrics from Round 1:**
 
 ____________________
 
@@ -685,7 +868,11 @@ ____________________
 
 #### Reflection on Rounds 1 and 2
 
-**Song issues to fix** *(Based on your Round 2 rubric scores, which musical weaknesses remain or emerged? Did Round 2 fixes actually improve those scores?):*
+**Music issues to fix** *(Based on your Round 2 music rubric scores, which musical weaknesses remain or emerged? Did Round 2 fixes actually improve those scores?):*
+
+____________________
+
+**Lyric issues to fix** *(Based on your Round 2 lyric rubric scores, which lyric weaknesses remain or emerged?):*
 
 ____________________
 
@@ -701,7 +888,7 @@ ____________________
 
 **Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+| Change Type | Exact Words/Phrases Changed in Prompt | Music, Lyric, or Prompt Issue This Addresses | Reasoning |
 |:-----------:|--------------------------------------|-------------------------------------|-----------|
 | Changed | | | |
 | Added | | | |
@@ -727,77 +914,112 @@ ____________________
 
 #### HARMONIC Rubric — Song B, Round 3
 
-**1. Novelty & Originality (25 points)**
+**Part A: Music Evaluation (80 points)**
+
+**1. Novelty & Originality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Unexpectedness | Surprising elements within genre expectations | | 1.6 | |
-| Transformative elements | Creative approaches to genre conventions | | 1.4 | |
-| Conceptual distance | Unique position within the genre landscape | | 1.0 | |
-| Structural innovation | Novel approaches to form within genre context | | 1.0 | |
-| **SECTION TOTAL** | | | | **/25** |
+| Unexpectedness | Surprising elements within genre expectations | | 1.3 | |
+| Transformative elements | Creative approaches to genre conventions | | 1.1 | |
+| Conceptual distance | Unique position within the genre landscape | | 0.8 | |
+| Structural innovation | Novel approaches to form within genre context | | 0.8 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**2. Musical Value & Quality (25 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Coherence & structure | Logical musical flow and development | | 1.4 | |
-| Technical execution | Proper handling of genre-specific techniques | | 1.2 | |
-| Emotional resonance | Evokes appropriate emotional responses | | 1.2 | |
-| Memorability | Contains distinctive, memorable elements | | 0.6 | |
-| Production quality | Technical aspects of sound production | | 0.6 | |
-| **SECTION TOTAL** | | | | **/25** |
-
-**3. Genre-Specific Achievement (15 points)**
+**2. Musical Value & Quality (20 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Genre authenticity | Captures essential genre characteristics | | 1.0 | |
-| Stylistic consistency | Maintains coherent style throughout | | 1.0 | |
-| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 1.0 | |
-| **SECTION TOTAL** | | | | **/15** |
+| Coherence & structure | Logical musical flow and development | | 1.1 | |
+| Technical execution | Proper handling of genre-specific techniques | | 1.0 | |
+| Emotional resonance | Evokes appropriate emotional responses | | 1.0 | |
+| Memorability | Contains distinctive, memorable elements | | 0.5 | |
+| Production quality | Technical aspects of sound production | | 0.4 | |
+| **SECTION TOTAL** | | | | **/20** |
 
-**4. AI Generation Quality (15 points)**
-
-| Component | Description | Score (1-5) | Weight | Weighted Score |
-|-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt adherence | How well output matches prompt intent | | 1.0 | |
-| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 1.0 | |
-| Musical logic | Follows sensible musical structure and rules | | 0.6 | |
-| Intentionality | Evidence of purposeful musical choices | | 0.4 | |
-| **SECTION TOTAL** | | | | **/15** |
-
-**5. Human-AI Interaction (10 points)**
+**3. Genre-Specific Achievement (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Prompt responsiveness | How well AI responded to specific requests | | 0.8 | |
-| Controllability | Success in steering output through prompting | | 0.6 | |
-| Iteration improvement | Measurable improvement from refinements | | 0.6 | |
-| **SECTION TOTAL** | | | | **/10** |
+| Genre authenticity | Captures essential genre characteristics | | 0.8 | |
+| Stylistic consistency | Maintains coherent style throughout | | 0.8 | |
+| Instrumental/vocal appropriateness | Properly uses genre-specific techniques | | 0.8 | |
+| **SECTION TOTAL** | | | | **/12** |
 
-**6. Audience & Cultural Relevance (10 points)**
+**4. AI Generation Quality (12 points)**
 
 | Component | Description | Score (1-5) | Weight | Weighted Score |
 |-----------|-------------|:-----------:|:------:|:--------------:|
-| Target audience appeal | Likely reception by intended listeners | | 0.8 | |
-| Commercial viability | Potential for real-world application | | 0.8 | |
+| Prompt adherence | How well output matches prompt intent | | 0.8 | |
+| Technical coherence | Avoidance of AI-specific artifacts/glitches | | 0.8 | |
+| Musical logic | Follows sensible musical structure and rules | | 0.5 | |
+| Intentionality | Evidence of purposeful musical choices | | 0.3 | |
+| **SECTION TOTAL** | | | | **/12** |
+
+**5. Human-AI Interaction (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Prompt responsiveness | How well AI responded to specific requests | | 0.6 | |
+| Controllability | Success in steering output through prompting | | 0.5 | |
+| Iteration improvement | Measurable improvement from refinements | | 0.5 | |
+| **SECTION TOTAL** | | | | **/8** |
+
+**6. Audience & Cultural Relevance (8 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Target audience appeal | Likely reception by intended listeners | | 0.6 | |
+| Commercial viability | Potential for real-world application | | 0.6 | |
 | Cultural authenticity | Respects cultural origins of the genre | | 0.4 | |
-| **SECTION TOTAL** | | | | **/10** |
+| **SECTION TOTAL** | | | | **/8** |
 
-**Composite Score: _____ / 100**
+**Music Score: _____ / 80**
 
-#### Song Evaluation
+---
 
-**Song Strengths** *(What sounds good? Cite specific musical moments):*
+**Part B: Lyric Evaluation (20 points)**
+
+**7. Lyric Quality (20 points)**
+
+| Component | Description | Score (1-5) | Weight | Weighted Score |
+|-----------|-------------|:-----------:|:------:|:--------------:|
+| Thematic coherence | Lyrics tell a clear story or convey a unified theme | | 1.0 | |
+| Wordcraft & rhyme | Quality of word choice, rhyme scheme, and lyrical rhythm | | 1.0 | |
+| Emotional alignment | Lyrics match and reinforce the musical mood | | 0.8 | |
+| Originality of expression | Creative phrasing vs. cliche or generic language | | 0.6 | |
+| Genre-appropriate language | Vocabulary and style fit the genre conventions | | 0.6 | |
+| **SECTION TOTAL** | | | | **/20** |
+
+**Lyric Score: _____ / 20**
+
+**Composite Score (Music + Lyrics): _____ / 100**
+
+#### Music Evaluation
+
+**Music Strengths** *(What sounds good? Cite specific musical moments):*
 
 ____________________
 
-**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems):*
+**Music Weaknesses** *(What sounds wrong or weak? Cite specific musical problems):*
 
 ____________________
 
-**What improved in the song from Round 2:**
+**What improved in the music from Round 2:**
+
+____________________
+
+#### Lyric Evaluation
+
+**Lyric Strengths** *(What works well? Cite specific lines or passages):*
+
+____________________
+
+**Lyric Weaknesses** *(What falls short? Cite specific problems):*
+
+____________________
+
+**What improved in the lyrics from Round 2:**
 
 ____________________
 
@@ -815,11 +1037,11 @@ ____________________
 
 ### Song B — Score Trajectory
 
-| Round | Novelty (25) | Musical Value (25) | Genre (15) | AI Quality (15) | Human-AI (10) | Audience (10) | **Total (100)** |
-|:-----:|:------------:|:------------------:|:----------:|:----------------:|:--------------:|:--------------:|:---------------:|
-| 1 | | | | | | | |
-| 2 | | | | | | | |
-| 3 | | | | | | | |
+| Round | Novelty (20) | Musical Value (20) | Genre (12) | AI Quality (12) | Human-AI (8) | Audience (8) | **Music (80)** | **Lyrics (20)** | **Total (100)** |
+|:-----:|:------------:|:------------------:|:----------:|:----------------:|:-------------:|:------------:|:--------------:|:---------------:|:---------------:|
+| 1 | | | | | | | | | |
+| 2 | | | | | | | | | |
+| 3 | | | | | | | | | |
 
 ---
 

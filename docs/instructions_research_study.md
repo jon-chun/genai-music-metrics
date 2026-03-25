@@ -4,7 +4,12 @@ This document is your complete step-by-step guide. Follow it from start to finis
 
 ## What You'll Do
 
-You will generate **2 songs** using [suno.com](https://suno.com) and refine each one across **3 rounds** of prompt engineering. For each round, you'll evaluate the output using the [HARMONIC Scoring Rubric](./scoring_rubric_harmonic-songs.md) embedded in the report template. At the end, you'll write a combined summary report reflecting on both songs.
+You will generate **2 songs** using [suno.com](https://suno.com) and refine each one across **3 rounds** of prompt engineering. Since Suno generates both music and lyrics, for each round you'll evaluate **both dimensions** using the [HARMONIC Scoring Rubric](./scoring_rubric_harmonic-songs.md) embedded in the report template:
+
+- **Part A: Music Evaluation (80 points)** — composition, production, genre authenticity, AI quality
+- **Part B: Lyric Evaluation (20 points)** — thematic coherence, wordcraft, emotional alignment, originality
+
+At the end, you'll write a combined summary report reflecting on both songs.
 
 **Total output:** 2 songs x 3 rounds = 6 generated tracks, 6 completed rubrics, and 1 summary report — all captured in a single .docx file.
 
@@ -51,8 +56,9 @@ Work through 3 rounds for each song. You can work on both songs in parallel or f
 4. Suno generates multiple versions — listen to all of them and **pick the best one**
 5. Fill in the **Round 1** section of the report template for this song:
    - Paste your exact prompt (verbatim) in the prompt field
-   - Complete the HARMONIC rubric table with scores and justifications
-   - Note strengths and weaknesses
+   - Complete the **Music rubric** (Part A, sections 1-6) with scores and justifications
+   - Complete the **Lyric rubric** (Part B, section 7) with scores and justifications
+   - Write separate evaluations for music strengths/weaknesses and lyric strengths/weaknesses
 6. Save the audio file as `SongA_Round1.mp3` or `SongB_Round1.mp3`
 
 **Don't overthink Round 1** — it serves as your baseline. The point is to see where the AI starts so you can steer it.
@@ -146,6 +152,6 @@ Upload everything to the [Google Drive submission folder](https://drive.google.c
 When scoring with the HARMONIC rubric:
 
 - **Be objective** — Evaluate against genre standards, not personal taste
-- **Be specific** — Cite concrete musical moments to justify your scores
+- **Be specific** — Cite concrete musical moments and lyric passages to justify your scores
 - **Be consistent** — Apply the same criteria across all rounds and both songs
 - **Consider context** — Judge relative to the state of AI music generation, not against professional human composers

@@ -16,7 +16,7 @@ In this mini-project you will:
 
 1. **Generate AI music** using [suno.com](https://suno.com), a text-to-music Large Multimodal Model (LMM)
 2. **Engineer prompts** within Suno's 200-character limit — an exercise in extreme conciseness
-3. **Evaluate outputs** using our HARMONIC scoring rubric, derived from GenAI research
+3. **Evaluate outputs** using our HARMONIC scoring rubric — assessing both the **music** (80 pts) and the **lyrics** (20 pts) that Suno generates
 4. **Iterate and refine** across 3 rounds for each of 2 songs, improving quality through systematic prompt engineering
 
 Prompt engineering is both art and science, grounded in language. As the human-in-the-loop (HIL) supervisor, you should bring your real-world musical experience — whether from studying theory, playing an instrument, following a particular genre, or growing up with a regional or cultural music tradition — to complement, steer, and control the AI generative process. Music is a universal mode of expression; everyone has expertise to draw from.
@@ -35,7 +35,7 @@ Read these in order:
 |---|----------|---------|
 | 1 | [Project Instructions](./docs/instructions_research_study.md) | Complete step-by-step guide for the 2-song, 3-round workflow |
 | 2 | [Prompt Engineering Guide](./docs/instructions_prompt_engineering_text-to-music-LLMs.md) | How to construct and refine effective 200-character prompts |
-| 3 | [HARMONIC Scoring Rubric](./docs/scoring_rubric_harmonic-songs.md) | The evaluation framework you'll use to score each song |
+| 3 | [HARMONIC Scoring Rubric](./docs/scoring_rubric_harmonic-songs.md) | The evaluation framework: Music (80 pts) + Lyrics (20 pts) = 100 pts |
 
 ### Step 3: Download the Report Template
 Download the [Final Report Template (.docx)](./docs/final_report_template.docx) — this is the document you will fill in as you work through the project. It contains the task checklist, all 6 rubric tables, prompt documentation fields, and the summary report outline. *(A [markdown version](./docs/final_report_template.md) is also available for reference.)*

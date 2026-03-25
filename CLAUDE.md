@@ -13,7 +13,7 @@ Students use text-to-music LLMs (suno.com) to generate **2 songs**, each refined
 - `docs/` — All project documentation:
   - `instructions_research_study.md` — The single authoritative step-by-step project guide (2 songs, 3 rounds)
   - `instructions_prompt_engineering_text-to-music-LLMs.md` — Reference guide for prompt construction and refinement strategies
-  - `scoring_rubric_harmonic-songs.md` — The HARMONIC scoring rubric (6 sections, 100-point scale with weighted components)
+  - `scoring_rubric_harmonic-songs.md` — The HARMONIC scoring rubric (7 sections, 100-point scale: Music 80pts + Lyrics 20pts)
   - `rubric_prompt_engineering.md` — Meta-analysis framework for analyzing prompt strategy effectiveness across participants
   - `reference_ai-generated-music.md` — Reference links
   - `paper_frontiersinai_computational_creativity_and_music_gen_fcarnovalini.pdf` — Background paper on computational creativity
@@ -21,7 +21,7 @@ Students use text-to-music LLMs (suno.com) to generate **2 songs**, each refined
 
 ## Key Concepts
 
-- **HARMONIC rubric**: 6-section weighted evaluation framework — Novelty & Originality (25pts), Musical Value & Quality (25pts), Genre-Specific Achievement (15pts), AI Generation Quality (15pts), Human-AI Interaction (10pts), Audience & Cultural Relevance (10pts). Each component scored 1-5 and multiplied by its weight.
+- **HARMONIC rubric**: 7-section weighted evaluation framework split into two parts. **Part A — Music (80pts):** Novelty & Originality (20pts), Musical Value & Quality (20pts), Genre-Specific Achievement (12pts), AI Generation Quality (12pts), Human-AI Interaction (8pts), Audience & Cultural Relevance (8pts). **Part B — Lyrics (20pts):** Lyric Quality covering thematic coherence, wordcraft, emotional alignment, originality, and genre-appropriate language. Each component scored 1-5 and multiplied by its weight.
 - **Prompt refinement strategies** are classified into 8 categories: technical specificity, reference enhancement, emotional elaboration, constraint adjustment, cultural contextualization, feedback incorporation, prompt restructuring, and length modification.
 - **Workflow**: 3-round cycle per song — Round 1 (baseline), Round 2 (targeted refinement), Round 3 (fine-tuning). Students choose whether their 2 songs use the same or different genres.
 
