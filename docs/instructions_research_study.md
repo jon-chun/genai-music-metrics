@@ -1,97 +1,151 @@
-# AI Music Generation Research Study: Participant Instructions
+# Project Instructions: AI Music Generation and Benchmarking
 
-## Welcome to the Study
+This document is your complete step-by-step guide. Follow it from start to finish, filling in the [Final Report Template (.docx)](./final_report_template.docx) as you go.
 
-You have been selected to participate in this research study because of your expertise in a specific musical genre. Your insights will help advance our understanding of AI music generation and develop effective prompt engineering techniques for creative applications.
+## What You'll Do
 
-## Study Overview
+You will generate **2 songs** using [suno.com](https://suno.com) and refine each one across **3 rounds** of prompt engineering. For each round, you'll evaluate the output using the [HARMONIC Scoring Rubric](./scoring_rubric_harmonic-songs.md) embedded in the report template. At the end, you'll write a combined summary report reflecting on both songs.
 
-In this research, you will:
-1. Use AI text-to-music systems to generate songs in your area of expertise
-2. Refine your prompts over 3-5 iterations to improve the output
-3. Evaluate each iteration using our HARMONIC scoring rubric
-4. Document your prompt engineering strategies and observations
+**Total output:** 2 songs x 3 rounds = 6 generated tracks, 6 completed rubrics, and 1 summary report — all captured in a single .docx file.
 
-## Step-by-Step Instructions
+> **Before you begin:** Download the [Final Report Template (.docx)](./final_report_template.docx). This is the document you will fill in throughout the project and submit when finished. It includes a task checklist, all rubric tables, prompt fields, and the summary report outline.
 
-### Preparation Phase (Before Generation)
+---
 
-1. **Select your genre of expertise**
-   - Choose a musical genre, style, or tradition in which you have significant knowledge
-   - Document your experience level (years of study/practice, formal training, etc.)
+## Phase 1: Preparation (Before You Generate)
 
-2. **Choose your AI platform**
-   - Select from approved text-to-music generation services (Suno, Udio, etc.)
-   - Familiarize yourself with the platform's basic functionality
+### 1.1 Choose Your Genre(s)
 
-3. **Complete the expertise questionnaire**
-   - Rate your knowledge of the genre's history, theory, and conventions (1-10)
-   - List key artists/works that exemplify the genre
-   - Identify 3-5 essential characteristics that define the genre
+Pick a musical genre, style, or tradition you know well. Your two songs can be:
+- **Same genre** — to explore how different prompting strategies affect the same style
+- **Different genres** — to compare how well the AI handles different musical traditions
 
-### Generation Phase (Main Study)
+The choice is yours. Pick whatever lets you bring the most expertise to the evaluation.
 
-1. **Initial prompt creation**
-   - Create your first prompt aiming to generate music in your chosen genre
-   - Include basic specifications (genre, mood, tempo, instrumentation)
-   - Document this prompt exactly as entered
-   - Do not overthink this first prompt - it serves as a baseline
+### 1.2 Document Your Expertise
 
-2. **First evaluation**
-   - Generate your first music sample
-   - Score it using the HARMONIC rubric (see attached scoring document)
-   - Take detailed notes on strengths and weaknesses
-   - Save both the audio file and your evaluation
+For each genre you're working with, fill in **Section 1 (Genre Expertise)** of the report template:
+- Your experience level (years of listening, study, practice, or performance)
+- 3-5 essential characteristics that define the genre
+- Key artists or works that exemplify it
 
-3. **Prompt refinement cycle** (repeat 2-4 times)
-   - Based on your evaluation, refine your prompt to address weaknesses
-   - Document your refinement strategy (what you changed and why)
-   - Generate a new music sample
-   - Score using the HARMONIC rubric
-   - Save both the audio file and your evaluation
-   - Continue this process for at least 3 total iterations
+### 1.3 Brainstorm Your Initial Prompts
 
-### Final Documentation
+Before touching Suno, draft your first prompt for each song. Suno's limit is **200 characters**, so every word counts. Consult the [Prompt Engineering Guide](./instructions_prompt_engineering_text-to-music-LLMs.md) for strategies on constructing effective prompts.
 
-1. **Complete the summary report**
-   - Document all prompts used (verbatim)
-   - Include all HARMONIC scores for each iteration
-   - Categorize your refinement strategies using the provided classification system
-   - Reflect on what prompt strategies worked or didn't work
-   - Provide your overall assessment of the AI's capability in your genre
+Think about what unique insights you bring: music theory knowledge, instrumental experience, familiarity with a niche genre, cultural or regional traditions. Use that expertise to craft prompts that are specific and informed.
 
-2. **Submit all materials**
-   - All audio files generated (labeled by iteration number)
-   - Completed HARMONIC rubrics for each iteration
-   - Final summary report
-   - Original expertise questionnaire
+---
 
-## Evaluation Guidelines
+## Phase 2: Generate, Evaluate, Refine (3 Rounds per Song)
 
-When evaluating using the HARMONIC rubric:
+Work through 3 rounds for each song. You can work on both songs in parallel or finish one before starting the other.
 
-- **Be objective:** Evaluate based on genre standards rather than personal preference
-- **Be detailed:** Provide specific musical examples to justify scores
-- **Be consistent:** Use the same criteria across all iterations
-- **Consider context:** Judge AI output relative to the state of AI music generation, not against professional human composers
+### Round 1: Baseline
 
-## Prompt Refinement Strategies
+**For each song:**
 
-Consider these approaches when refining your prompts:
+1. Go to [suno.com](https://suno.com) and log into your free account
+2. Select the **"Classical lyrics model"** (not the "ReMi" model)
+3. Enter your initial prompt and click the **Create** button
+4. Suno generates multiple versions — listen to all of them and **pick the best one**
+5. Fill in the **Round 1** section of the report template for this song:
+   - Paste your exact prompt (verbatim) in the prompt field
+   - Complete the HARMONIC rubric table with scores and justifications
+   - Note strengths and weaknesses
+6. Save the audio file as `SongA_Round1.mp3` or `SongB_Round1.mp3`
 
-1. **Add technical specificity:** Include musical theory elements, structure details
-2. **Enhance references:** Add more artist/song references or examples
-3. **Elaborate emotionally:** Expand on mood, feeling, or emotional trajectory
-4. **Adjust constraints:** Change specific musical parameters (tempo, key, etc.)
-5. **Add cultural context:** Include cultural/historical background
-6. **Incorporate feedback:** Directly address issues from previous iterations
-7. **Restructure information:** Reorganize without changing content
-8. **Modify length:** Substantially increase/decrease prompt length
+**Don't overthink Round 1** — it serves as your baseline. The point is to see where the AI starts so you can steer it.
 
-## Timeline and Submission
+### Round 2: Targeted Refinement
 
-- Complete all generation iterations within one week
-- Submit all materials within three days of completing your final iteration
-- Contact the research team if you encounter technical difficulties
+**For each song:**
 
-Thank you for your valuable contribution to this research. Your expertise will help shape the future of AI music generation tools.
+1. Review your Round 1 rubric scores and notes
+2. Identify the **2-3 lowest-scoring categories** in the rubric
+3. Revise your prompt to specifically address those weaknesses. Use the [Prompt Engineering Guide](./instructions_prompt_engineering_text-to-music-LLMs.md) for refinement strategies. Document:
+   - What you changed in the prompt
+   - Why you changed it (which rubric scores motivated the change)
+   - Which refinement strategy you used (see categories below)
+4. Generate a new track on Suno with the revised prompt
+5. Pick the best version and fill in the **Round 2** section of the report template (rubric, prompt, refinement notes)
+6. Save the audio file as `SongA_Round2.mp3` or `SongB_Round2.mp3`
+
+### Round 3: Fine-Tuning
+
+**For each song:**
+
+1. Review your Round 2 rubric scores and compare to Round 1
+2. Assess what improved and what didn't — was your refinement strategy effective?
+3. Make a final prompt revision, using more advanced techniques:
+   - Contrast pairs ("energetic but not chaotic")
+   - Precise technical adjustments (specific instruments, tempo, structure)
+   - Building on what worked while addressing remaining gaps
+4. Generate, pick the best version, and fill in the **Round 3** section of the report template
+5. Save the audio file as `SongA_Round3.mp3` or `SongB_Round3.mp3`
+6. Fill in the **Score Trajectory** table for this song in the report template
+
+---
+
+## Phase 3: Summary Report
+
+Complete **Section 4 (Summary Report)** of the report template. Write a one-page combined analysis covering both songs. Address these points:
+
+### A. Overall Impressions
+- How do your final versions of Song A and Song B compare?
+- Which song turned out better, and why?
+
+### B. Prompt Engineering Strategies
+- What refinement strategies did you use? (Classify using the categories below.)
+- Which strategies were most/least effective?
+- What did you learn about working within the 200-character limit?
+
+### C. Quality Trajectory
+- How did HARMONIC scores change across your 3 rounds for each song?
+- Did scores consistently improve, plateau, or fluctuate?
+- Was there a point of diminishing returns?
+
+### D. Big Questions
+- Your personal observations on AI-generated music: creativity, originality, limitations
+- Concerns about intellectual property, displacement of human musicians, or other implications
+- Predictions for where this technology is heading
+
+---
+
+## Prompt Refinement Strategy Categories
+
+When documenting your refinement strategy for each round, classify it using one or more of these categories:
+
+1. **Technical specificity** — Adding musical theory elements or structure details
+2. **Reference enhancement** — Adding artist, song, or era references
+3. **Emotional elaboration** — Expanding on mood, feeling, or emotional arc
+4. **Constraint adjustment** — Changing specific musical parameters (tempo, key, etc.)
+5. **Cultural contextualization** — Adding cultural or historical context
+6. **Feedback incorporation** — Directly addressing issues identified in the previous round's rubric
+7. **Prompt restructuring** — Reorganizing the same information for clarity
+8. **Length modification** — Substantially changing prompt length
+
+---
+
+## What to Submit
+
+Upload everything to the [Google Drive submission folder](https://drive.google.com/drive/folders/1lGPb4_kcT_QaKL55pP-ZQE0Eg5bmnqR0?usp=sharing):
+
+| Item | Details |
+|------|---------|
+| **Completed report** (.docx) | Your filled-in [Final Report Template](./final_report_template.docx) with all rubrics, prompts, and summary |
+| **Song A audio files** | `SongA_Round1.mp3`, `SongA_Round2.mp3`, `SongA_Round3.mp3` |
+| **Song B audio files** | `SongB_Round1.mp3`, `SongB_Round2.mp3`, `SongB_Round3.mp3` |
+
+**Total uploads:** 1 completed .docx report + 6 audio files = 7 files
+
+---
+
+## Evaluation Tips
+
+When scoring with the HARMONIC rubric:
+
+- **Be objective** — Evaluate against genre standards, not personal taste
+- **Be specific** — Cite concrete musical moments to justify your scores
+- **Be consistent** — Apply the same criteria across all rounds and both songs
+- **Consider context** — Judge relative to the state of AI music generation, not against professional human composers

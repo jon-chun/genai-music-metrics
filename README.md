@@ -1,49 +1,51 @@
-# Mini-Project #3: 
-## AI Music Generation and Benchmarking Creativity
-### IPHS300 AI for Humanity (Spring 2025)
-### Kenyon College 
-### 22 Mar 2025
+# Mini-Project #3: AI Music Generation and Benchmarking Creativity
+### IPHS300 AI for Humanity (Spring 2025) | Kenyon College | 22 Mar 2025
 
 ---
 
 ![GenAI The Orchestra of Algorithms by AI Caravaggio](./docs/orchestra-of-algorithms_caravaggio.png?raw=true)
 *The Orchestra of Algorithms: A futuristic amphitheater in the style of ancient Greece where robotic musicians with classical instruments emit streams of light representing sound waves, while quantum judges with multiple faces (inspired by Janus) analyze the performance using crystalline measuring devices, all rendered in the dramatic chiaroscuro style of Caravaggio.*
 
-# OVERVIEW:
+## Overview
 
-Since we began creating our human-centered AI curriculum in 2016, the progress in AI has been astounding. One of the most intuitively obvious benchmarks of this rapid (some say accelerating) progress can been seen in the subfield of generative AI art that could include images, video and music. Measuring advancements in GenAI Art presents a multi-dimensional challenge compared to our earlier GOFAI benchmarks since there is no single universal ground truth to measure ‘performance’ or ‘goodness’. Most interesting and impactful real-world AI challenges involve a combination of human expertise, judgement and common sense contextualization.
+Since we began creating our human-centered AI curriculum in 2016, the progress in AI has been astounding. One of the most visible benchmarks of this rapid progress is generative AI art — images, video, and music. Unlike earlier GOFAI benchmarks, measuring GenAI art quality has no single universal ground truth. It requires a combination of human expertise, judgment, and common-sense contextualization.
 
-GenAI benchmarks often involve a combination of objective, subjective and hybrid metrics drawing from both formal music theory and impressionistic Turing Tests based upon human evaluators. Beyond these metrics lie more profound questions and intense debates of originality/creativity, intentionality, aesthetics, intentionality, intellectual property, and disemployment among others.
+GenAI music benchmarks blend objective metrics (from formal music theory) with subjective ones (impressionistic Turing Tests by human evaluators). Beyond these metrics lie deeper questions: originality, creativity, intentionality, aesthetics, intellectual property, and displacement of human artists.
 
-Your goal in the Mini-Project and our follow-up discussions is to get direct hands-on experience with state-of-the-art GenAI music (suno.com) and capture these experiences in an original benchmark we developed for this Mini-Project distilled from GenAI research. Suno is based upon a text-to-music Large Multimodal Model (LMM) so this project will involve at least 3 iterations where you refine your prompt and evaluate each generation’s output using our benchmark scoring rubric. 
+In this mini-project you will:
 
-Prompt Engineering is both an art and science grounded in language. In addition to expressive fluency in language, as the guiding human-in-the-loop (HIL) supervisor in this generative musical process you should bring as much real-world experience, expertise and insights to compliment, steer, and control the AI generative process. Since suno.com only allows 200 character prompts, this is also an exercise in extreme prompt engineering efficiency and conciseness.
+1. **Generate AI music** using [suno.com](https://suno.com), a text-to-music Large Multimodal Model (LMM)
+2. **Engineer prompts** within Suno's 200-character limit — an exercise in extreme conciseness
+3. **Evaluate outputs** using our HARMONIC scoring rubric, derived from GenAI research
+4. **Iterate and refine** across 3 rounds for each of 2 songs, improving quality through systematic prompt engineering
 
-Brainstorm on what unique insights, expertise, and advantages you can bring to this generative AI mini-project to help you from the initial construction of expert prompts to the final human evaluation. This musical expertise can come in a variety of forms including studying music theory, playing an instrument, following a particular band or niche genre, or growing up with a familiarity with a particular regional, cultural or national music tradition. As music is a universal mode of expression - everyone should have one or multiple domains of expertise from which to approach this project.
+Prompt engineering is both art and science, grounded in language. As the human-in-the-loop (HIL) supervisor, you should bring your real-world musical experience — whether from studying theory, playing an instrument, following a particular genre, or growing up with a regional or cultural music tradition — to complement, steer, and control the AI generative process. Music is a universal mode of expression; everyone has expertise to draw from.
 
-# METHODOLOGY:
+## How to Use This Site
 
-1. Peruse <a href="./docs/paper_frontiersinai_computational_creativity_and_music_gen_fcarnovalini.pdf">this paper on music creativity and aesthetics up to and including Section 2</a> to educate yourself on Generative AI music and related benchmarks (Computational Creativity and Music Generation Systems: An Introduction to State of the Art, Carnovalini et al, Frontiers in Artificial Intelligence, Apr 2020)
+Follow these steps in order:
 
-2. Read the following instructions in this order:
-- a. <a href="./docs/instructions_research_study.md">Instructions Research Study</a>
-- b. <a href="./docs/instructions_prompt_engineering_text-to-music-LLMs.md">Instructions Prompt Engineering for GenAI Music</a>
-- c. <a href="./docs/scoring_rubric_harmonic-songs.md">Scoring Rubric</a>
+### Step 1: Background Reading
+Read <a href="./docs/paper_frontiersinai_computational_creativity_and_music_gen_fcarnovalini.pdf">Carnovalini et al., "Computational Creativity and Music Generation Systems"</a> (Frontiers in AI, 2020) **up through Section 2** to build context on GenAI music and benchmarking.
 
-3.  Use information, guidelines and constraints from the previous steps and paper to brainstorm a specific, narrow type of music you:
-are familiar with can concisely and relatively completely capture in a 200char prompt can effectively evaluate using the scoring rubric.
+### Step 2: Read the Project Documents
+Read these in order:
 
-4. Goto suno.com and create a free account and use 2.b. to create/refine your prompts and the scoring rubric in 2.c. to evaluate/quantify the quality of your resultant AI generated songs
+| # | Document | Purpose |
+|---|----------|---------|
+| 1 | [Project Instructions](./docs/instructions_research_study.md) | Complete step-by-step guide for the 2-song, 3-round workflow |
+| 2 | [Prompt Engineering Guide](./docs/instructions_prompt_engineering_text-to-music-LLMs.md) | How to construct and refine effective 200-character prompts |
+| 3 | [HARMONIC Scoring Rubric](./docs/scoring_rubric_harmonic-songs.md) | The evaluation framework you'll use to score each song |
 
-- a. Choose “Classical lyrics model” (Not the “ReMi” model) and click the big blue “Create” pill button
-- b. Pick the best generated version and score it using the Rubric Spreadsheet
-- c. Use your evaluations to refine/improve your prompt
+### Step 3: Download the Report Template
+Download the [Final Report Template (.docx)](./docs/final_report_template.docx) — this is the document you will fill in as you work through the project. It contains the task checklist, all 6 rubric tables, prompt documentation fields, and the summary report outline. *(A [markdown version](./docs/final_report_template.md) is also available for reference.)*
 
-5. Repeat step #4 for at least three iterations and save prompts, songs, notes/completed scoring rubric sheets for each iteration/song.
+### Step 4: Do the Project
+Follow the [Project Instructions](./docs/instructions_research_study.md), filling in the report template as you go. Generate, evaluate, and refine 2 songs across 3 rounds each.
 
-6. Write a one page summary of your GenAI process, findings at each step and with a summary of your overall conclusion:
+### Step 5: Submit
+Upload your completed report (.docx) and all 6 song files to the [Google Drive submission folder](https://drive.google.com/drive/folders/1lGPb4_kcT_QaKL55pP-ZQE0Eg5bmnqR0?usp=sharing).
 
-- a. Overall impressions of final song
-- b. Strategies and lessons learned in Prompt Engineering refinements/limitations
-- c. Trajectory of song quality over the iterative process
-- d. Personal observations, objections, concerns, future predictions, etc. regarding the ‘big questions’ around this type of generative AI art
+## Additional References
+- [Prompt Engineering Meta-Analysis Framework](./docs/rubric_prompt_engineering.md) — Framework for analyzing prompt strategy effectiveness across participants
+- [AI-Generated Music References](./docs/reference_ai-generated-music.md) — Supplementary reading

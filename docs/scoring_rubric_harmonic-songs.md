@@ -1,10 +1,14 @@
 # HARMONIC Scoring Rubric for AI-Generated Music
 
-## Instructions for Expert Evaluators
-1. Score each component on a scale of 1-5 (1=Poor, 3=Average, 5=Excellent)
-2. Complete this rubric for each iteration of your AI-generated music (minimum 3 iterations)
-3. Document your prompt refinement strategy between iterations
-4. Provide brief justification for scores to support analysis
+## How to Use This Rubric
+
+This page is the **reference** for the HARMONIC rubric structure and scoring definitions. The rubric tables you will actually fill in are embedded in the [Final Report Template (.docx)](./final_report_template.docx) — one per round per song (2 songs x 3 rounds = 6 rubrics total).
+
+**Scoring instructions:**
+1. Score each component on a scale of **1-5** (1=Poor, 3=Average, 5=Excellent)
+2. Multiply each score by its weight to get the weighted score
+3. Sum weighted scores within each section, then sum all sections for the composite score
+4. Provide brief justification for your scores — cite specific musical moments
 
 ## 1. Novelty & Originality (25 points total)
 
