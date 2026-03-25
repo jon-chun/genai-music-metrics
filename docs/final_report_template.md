@@ -177,15 +177,35 @@ ____________________
 
 ### Song A — Round 2 (Targeted Refinement)
 
+#### Reflection on Round 1
+
+**Strengths from Round 1** *(What worked well? Which rubric categories scored highest and why?):*
+
+____________________
+
+**Weaknesses from Round 1** *(What fell short? Which rubric categories scored lowest and why?):*
+
+____________________
+
+#### Prompt Revision Reasoning
+
+**Specific prompt elements you changed, added, or deleted:**
+
+| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
+|:-----------:|-------------------------------|---------------------------------------|
+| Changed | | |
+| Added | | |
+| Deleted | | |
+
+**Why you believe these changes will improve the output:**
+
+____________________
+
 **Prompt Used** *(verbatim):*
 
 ```
 [paste your exact prompt here]
 ```
-
-**What You Changed and Why:**
-
-____________________
 
 **Refinement Strategy Used** *(check all that apply):*
 - [ ] Technical specificity
@@ -277,15 +297,39 @@ ____________________
 
 ### Song A — Round 3 (Fine-Tuning)
 
+#### Reflection on Rounds 1 and 2
+
+**Strengths from Round 2** *(What improved from Round 1? What new strengths emerged?):*
+
+____________________
+
+**Remaining weaknesses** *(What issues persisted or appeared despite Round 2 refinements?):*
+
+____________________
+
+**Assessment of Round 2 refinement strategy** *(Was your targeted refinement effective? Did addressing the weaknesses you identified actually improve those rubric scores?):*
+
+____________________
+
+#### Prompt Revision Reasoning
+
+**Specific prompt elements you changed, added, or deleted:**
+
+| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
+|:-----------:|-------------------------------|---------------------------------------|
+| Changed | | |
+| Added | | |
+| Deleted | | |
+
+**Why you believe these changes will improve the output:**
+
+____________________
+
 **Prompt Used** *(verbatim):*
 
 ```
 [paste your exact prompt here]
 ```
-
-**What You Changed and Why:**
-
-____________________
 
 **Refinement Strategy Used** *(check all that apply):*
 - [ ] Technical specificity
@@ -471,15 +515,35 @@ ____________________
 
 ### Song B — Round 2 (Targeted Refinement)
 
+#### Reflection on Round 1
+
+**Strengths from Round 1** *(What worked well? Which rubric categories scored highest and why?):*
+
+____________________
+
+**Weaknesses from Round 1** *(What fell short? Which rubric categories scored lowest and why?):*
+
+____________________
+
+#### Prompt Revision Reasoning
+
+**Specific prompt elements you changed, added, or deleted:**
+
+| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
+|:-----------:|-------------------------------|---------------------------------------|
+| Changed | | |
+| Added | | |
+| Deleted | | |
+
+**Why you believe these changes will improve the output:**
+
+____________________
+
 **Prompt Used** *(verbatim):*
 
 ```
 [paste your exact prompt here]
 ```
-
-**What You Changed and Why:**
-
-____________________
 
 **Refinement Strategy Used** *(check all that apply):*
 - [ ] Technical specificity
@@ -571,15 +635,39 @@ ____________________
 
 ### Song B — Round 3 (Fine-Tuning)
 
+#### Reflection on Rounds 1 and 2
+
+**Strengths from Round 2** *(What improved from Round 1? What new strengths emerged?):*
+
+____________________
+
+**Remaining weaknesses** *(What issues persisted or appeared despite Round 2 refinements?):*
+
+____________________
+
+**Assessment of Round 2 refinement strategy** *(Was your targeted refinement effective? Did addressing the weaknesses you identified actually improve those rubric scores?):*
+
+____________________
+
+#### Prompt Revision Reasoning
+
+**Specific prompt elements you changed, added, or deleted:**
+
+| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
+|:-----------:|-------------------------------|---------------------------------------|
+| Changed | | |
+| Added | | |
+| Deleted | | |
+
+**Why you believe these changes will improve the output:**
+
+____________________
+
 **Prompt Used** *(verbatim):*
 
 ```
 [paste your exact prompt here]
 ```
-
-**What You Changed and Why:**
-
-____________________
 
 **Refinement Strategy Used** *(check all that apply):*
 - [ ] Technical specificity

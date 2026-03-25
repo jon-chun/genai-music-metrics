@@ -3,7 +3,7 @@
 
 ---
 
-![GenAI The Orchestra of Algorithms by AI Caravaggio](./docs/orchestra-of-algorithms_caravaggio.png?raw=true)
+![GenAI The Orchestra of Algorithms by AI Caravaggio](./docs/orchestra-of-algorithms_caravaggio_2026spr.jpg?raw=true)
 *The Orchestra of Algorithms: A futuristic amphitheater in the style of ancient Greece where robotic musicians with classical instruments emit streams of light representing sound waves, while quantum judges with multiple faces (inspired by Janus) analyze the performance using crystalline measuring devices, all rendered in the dramatic chiaroscuro style of Caravaggio.*
 
 ## Overview
