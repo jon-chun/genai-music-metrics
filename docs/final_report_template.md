@@ -165,11 +165,23 @@ ____________________
 
 **Composite Score: _____ / 100**
 
-**Strengths:**
+#### Song Evaluation
+
+**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Weaknesses:**
+**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+
+____________________
+
+#### Prompt Evaluation
+
+**What worked in the prompt** *(Which keywords/phrases produced the results you wanted? What did the AI interpret correctly?):*
+
+____________________
+
+**What didn't work in the prompt** *(Which keywords/phrases were ignored, misinterpreted, or had no effect? What was missing?):*
 
 ____________________
 
@@ -179,27 +191,23 @@ ____________________
 
 #### Reflection on Round 1
 
-**Strengths from Round 1** *(What worked well? Which rubric categories scored highest and why?):*
+**Song issues to fix** *(Based on your Round 1 rubric scores, which 2-3 musical weaknesses are you targeting?):*
 
 ____________________
 
-**Weaknesses from Round 1** *(What fell short? Which rubric categories scored lowest and why?):*
+**Prompt issues to fix** *(Based on your Round 1 prompt evaluation, which words/phrases failed and need to be reworked?):*
 
 ____________________
 
 #### Prompt Revision Reasoning
 
-**Specific prompt elements you changed, added, or deleted:**
+**Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
-|:-----------:|-------------------------------|---------------------------------------|
-| Changed | | |
-| Added | | |
-| Deleted | | |
-
-**Why you believe these changes will improve the output:**
-
-____________________
+| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+|:-----------:|--------------------------------------|-------------------------------------|-----------|
+| Changed | | | |
+| Added | | | |
+| Deleted | | | |
 
 **Prompt Used** *(verbatim):*
 
@@ -281,15 +289,27 @@ ____________________
 
 **Composite Score: _____ / 100**
 
-**Strengths:**
+#### Song Evaluation
+
+**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Weaknesses:**
+**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
 
 ____________________
 
-**What Improved from Round 1:**
+**What improved in the song from Round 1:**
+
+____________________
+
+#### Prompt Evaluation
+
+**What worked in the prompt** *(Which keywords/phrases produced the results you wanted? What did the AI interpret correctly?):*
+
+____________________
+
+**What didn't work in the prompt** *(Which keywords/phrases were ignored, misinterpreted, or had no effect? What was missing?):*
 
 ____________________
 
@@ -299,31 +319,27 @@ ____________________
 
 #### Reflection on Rounds 1 and 2
 
-**Strengths from Round 2** *(What improved from Round 1? What new strengths emerged?):*
+**Song issues to fix** *(Based on your Round 2 rubric scores, which musical weaknesses remain or emerged? Did Round 2 fixes actually improve those scores?):*
 
 ____________________
 
-**Remaining weaknesses** *(What issues persisted or appeared despite Round 2 refinements?):*
+**Prompt issues to fix** *(Which prompt words/phrases still aren't working? What was misinterpreted or ignored in Round 2?):*
 
 ____________________
 
-**Assessment of Round 2 refinement strategy** *(Was your targeted refinement effective? Did addressing the weaknesses you identified actually improve those rubric scores?):*
+**Assessment of Round 2 refinement strategy** *(Was your targeted refinement effective? Which prompt changes worked and which didn't?):*
 
 ____________________
 
 #### Prompt Revision Reasoning
 
-**Specific prompt elements you changed, added, or deleted:**
+**Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
-|:-----------:|-------------------------------|---------------------------------------|
-| Changed | | |
-| Added | | |
-| Deleted | | |
-
-**Why you believe these changes will improve the output:**
-
-____________________
+| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+|:-----------:|--------------------------------------|-------------------------------------|-----------|
+| Changed | | | |
+| Added | | | |
+| Deleted | | | |
 
 **Prompt Used** *(verbatim):*
 
@@ -405,15 +421,27 @@ ____________________
 
 **Composite Score: _____ / 100**
 
-**Strengths:**
+#### Song Evaluation
+
+**Song Strengths** *(What sounds good? Cite specific musical moments):*
 
 ____________________
 
-**Weaknesses:**
+**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems):*
 
 ____________________
 
-**What Improved from Round 2:**
+**What improved in the song from Round 2:**
+
+____________________
+
+#### Prompt Evaluation
+
+**What worked in the prompt** *(Which keywords/phrases produced the results you wanted?):*
+
+____________________
+
+**What didn't work in the prompt** *(Which keywords/phrases were ignored, misinterpreted, or had no effect?):*
 
 ____________________
 
@@ -503,11 +531,23 @@ ____________________
 
 **Composite Score: _____ / 100**
 
-**Strengths:**
+#### Song Evaluation
+
+**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Weaknesses:**
+**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
+
+____________________
+
+#### Prompt Evaluation
+
+**What worked in the prompt** *(Which keywords/phrases produced the results you wanted? What did the AI interpret correctly?):*
+
+____________________
+
+**What didn't work in the prompt** *(Which keywords/phrases were ignored, misinterpreted, or had no effect? What was missing?):*
 
 ____________________
 
@@ -517,27 +557,23 @@ ____________________
 
 #### Reflection on Round 1
 
-**Strengths from Round 1** *(What worked well? Which rubric categories scored highest and why?):*
+**Song issues to fix** *(Based on your Round 1 rubric scores, which 2-3 musical weaknesses are you targeting?):*
 
 ____________________
 
-**Weaknesses from Round 1** *(What fell short? Which rubric categories scored lowest and why?):*
+**Prompt issues to fix** *(Based on your Round 1 prompt evaluation, which words/phrases failed and need to be reworked?):*
 
 ____________________
 
 #### Prompt Revision Reasoning
 
-**Specific prompt elements you changed, added, or deleted:**
+**Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
-|:-----------:|-------------------------------|---------------------------------------|
-| Changed | | |
-| Added | | |
-| Deleted | | |
-
-**Why you believe these changes will improve the output:**
-
-____________________
+| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+|:-----------:|--------------------------------------|-------------------------------------|-----------|
+| Changed | | | |
+| Added | | | |
+| Deleted | | | |
 
 **Prompt Used** *(verbatim):*
 
@@ -619,15 +655,27 @@ ____________________
 
 **Composite Score: _____ / 100**
 
-**Strengths:**
+#### Song Evaluation
+
+**Song Strengths** *(What sounds good? Cite specific musical moments — e.g., melody, rhythm, production, emotional impact, genre authenticity):*
 
 ____________________
 
-**Weaknesses:**
+**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems — e.g., artifacts, wrong instruments, weak structure, missing emotion):*
 
 ____________________
 
-**What Improved from Round 1:**
+**What improved in the song from Round 1:**
+
+____________________
+
+#### Prompt Evaluation
+
+**What worked in the prompt** *(Which keywords/phrases produced the results you wanted? What did the AI interpret correctly?):*
+
+____________________
+
+**What didn't work in the prompt** *(Which keywords/phrases were ignored, misinterpreted, or had no effect? What was missing?):*
 
 ____________________
 
@@ -637,31 +685,27 @@ ____________________
 
 #### Reflection on Rounds 1 and 2
 
-**Strengths from Round 2** *(What improved from Round 1? What new strengths emerged?):*
+**Song issues to fix** *(Based on your Round 2 rubric scores, which musical weaknesses remain or emerged? Did Round 2 fixes actually improve those scores?):*
 
 ____________________
 
-**Remaining weaknesses** *(What issues persisted or appeared despite Round 2 refinements?):*
+**Prompt issues to fix** *(Which prompt words/phrases still aren't working? What was misinterpreted or ignored in Round 2?):*
 
 ____________________
 
-**Assessment of Round 2 refinement strategy** *(Was your targeted refinement effective? Did addressing the weaknesses you identified actually improve those rubric scores?):*
+**Assessment of Round 2 refinement strategy** *(Was your targeted refinement effective? Which prompt changes worked and which didn't?):*
 
 ____________________
 
 #### Prompt Revision Reasoning
 
-**Specific prompt elements you changed, added, or deleted:**
+**Specific prompt elements you changed, added, or deleted to address the above:**
 
-| Change Type | What You Changed in the Prompt | Which Strength/Weakness This Addresses |
-|:-----------:|-------------------------------|---------------------------------------|
-| Changed | | |
-| Added | | |
-| Deleted | | |
-
-**Why you believe these changes will improve the output:**
-
-____________________
+| Change Type | Exact Words/Phrases Changed in Prompt | Song or Prompt Issue This Addresses | Reasoning |
+|:-----------:|--------------------------------------|-------------------------------------|-----------|
+| Changed | | | |
+| Added | | | |
+| Deleted | | | |
 
 **Prompt Used** *(verbatim):*
 
@@ -743,15 +787,27 @@ ____________________
 
 **Composite Score: _____ / 100**
 
-**Strengths:**
+#### Song Evaluation
+
+**Song Strengths** *(What sounds good? Cite specific musical moments):*
 
 ____________________
 
-**Weaknesses:**
+**Song Weaknesses** *(What sounds wrong or weak? Cite specific musical problems):*
 
 ____________________
 
-**What Improved from Round 2:**
+**What improved in the song from Round 2:**
+
+____________________
+
+#### Prompt Evaluation
+
+**What worked in the prompt** *(Which keywords/phrases produced the results you wanted?):*
+
+____________________
+
+**What didn't work in the prompt** *(Which keywords/phrases were ignored, misinterpreted, or had no effect?):*
 
 ____________________
 
